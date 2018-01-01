@@ -1,5 +1,7 @@
 # [CodeDoor](https://code-door.org/) TDD challenges
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/coderbyheart/codedoor-challenges.svg)](https://greenkeeper.io/)
+
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
